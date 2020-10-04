@@ -218,9 +218,25 @@ nav a.history { background: url("../img/icon/history.png") no-repeat 0px; }
 
 @media screen and (max-width : 800px) {
     .groscontainer aside {visibility: hidden;}
-    .container form {visibility: hidden;}
-
-
-
-
 }
+    @media screen and (max-width : 600px) {
+    .container form {visibility: hidden;}
+.groscontainer .name a {visibility: hidden;}
+}
+@media screen and (max-width: 64em) {
+    {
+        font-size: 2.5em;
+      }
+    }
+    
+    @media screen and (max-width: 50em) {
+   {
+        font-size: 2em;
+      }
+    }
+    
+    @media screen and (max-width: 30em){
+    {
+        font-sitze: 1.5em;
+      }
+    }
