@@ -173,6 +173,7 @@ input.submit {
     font-size: 0,813em;
     color: #89949b;
     margin: 10px 0;
+    width: 100%;
 }
 
 #albums article img {
